@@ -242,6 +242,7 @@ nav img {
 
 @media(max-width: 800px)
 {
+    
     nav img{
         margin-left: 50px;
     }
@@ -250,10 +251,11 @@ nav img {
     }
     .intro{
         flex-wrap: wrap-reverse;
-        padding-top: 9vh;;
+        padding-top: 120px;;
     }
     .intro_name{
         width: 90%;
+        padding: 20vh 0;
     }
     .intro_name h2{
         font-size: 40px;
@@ -265,6 +267,7 @@ nav img {
     }
     .edu{
         display: block  ;
+        padding-bottom: 10vh;
     }
     .education,
 .interest {
@@ -274,4 +277,5 @@ nav img {
 .skill h1{
     font-size: 3em;;
 }
+
 }
