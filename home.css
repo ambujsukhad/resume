@@ -250,7 +250,7 @@ nav img {
     }
     .intro{
         flex-wrap: wrap-reverse;
-        padding-top: 60px;
+        padding-top: 9vh;;
     }
     .intro_name{
         width: 90%;
@@ -269,8 +269,9 @@ nav img {
     .education,
 .interest {
     width: 100%;
+    padding-top: 14vh;
 }
 .skill h1{
-    font-size: 50px;;
+    font-size: 3em;;
 }
 }
