@@ -119,6 +119,7 @@ nav img {
     padding           : 20px;
     background-color  : #202026;
     height            : 300px;
+    flex-wrap: wrap;
 }
 
 .skill_box img {
@@ -247,8 +248,9 @@ nav img {
     .navlink{
         display: none;
     }
-    .image{
-        display: none;
+    .intro{
+        flex-wrap: wrap-reverse;
+        padding-top: 60px;
     }
     .intro_name{
         width: 90%;
@@ -256,4 +258,19 @@ nav img {
     .intro_name h2{
         font-size: 40px;
     }
+    .skill_design{
+        display: block;
+        position: relative;
+        width: 220vw;
+    }
+    .edu{
+        display: block  ;
+    }
+    .education,
+.interest {
+    width: 100%;
+}
+.skill h1{
+    font-size: 50px;;
+}
 }
