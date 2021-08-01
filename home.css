@@ -277,5 +277,8 @@ nav img {
 .skill h1{
     font-size: 3em;;
 }
+.contact2{
+    display: none;
+}
 
 }
