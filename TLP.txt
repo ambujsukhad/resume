@@ -1,0 +1,43 @@
+
+	client - say(hello)
+	function certificate()
+        {
+		return public key;
+	}
+         
+	function decrypt(assymetric encrypted file, private key)
+	{
+		return symetric encrypted file;
+	}
+	if(vector hash == hash(symetric encrypted file))
+	{
+		return true // file is authenticated 
+	}
+	function final_decrypt(symetric encrypted file, private key)
+	{
+		return original file;
+	}
+
+
+
+
+
+
+
+
+	server - say(hello)
+
+	x = certificate();
+	
+	function symmetric_encryption(original file, public key)
+	{
+		return encrypted file;
+        }
+	function assymetric_encryption(encrypted file)
+	{
+		// by MAT algo using Hash fn
+		
+		return asymetric encrypted file
+		
+		// this file also include a vector hash
+	}
