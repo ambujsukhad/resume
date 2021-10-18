@@ -93,6 +93,12 @@ randomm_class {
     border-radius   : 25px 25px 25px 0;
 }
 
+.random_class{
+     background-color: #0D0D0D;
+    padding         : 15px 0;
+    position: fixed;}
+
+
 .hello p {
     font-size: 30px;
 }
