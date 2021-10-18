@@ -167,6 +167,13 @@ randomm_class {
     text-align: center;
 }
 
+.skill_boxer{
+    color     : white;
+    font-size : 60px;
+    align-self: center;
+    margin    : 50px 0;
+}
+
 .edu {
     padding-top     : 80px;
     display         : flex;
