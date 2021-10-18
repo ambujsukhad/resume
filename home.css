@@ -273,6 +273,9 @@ randomm_class {
 .copyright{
     margin: 20px 15px;
 }
+.copyrights{
+     margin: 20px 15px;
+}   
 
 @media(max-width: 800px)
 {
