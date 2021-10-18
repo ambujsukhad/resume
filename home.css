@@ -112,6 +112,12 @@ randomm_class {
     padding: 100px;
 }
 
+.randomm_class{
+    text-decoration: none;
+    color          : cornsilk;
+    font-size      : 19px;
+}
+
 .skill h1 {
     color     : white;
     font-size : 60px;
